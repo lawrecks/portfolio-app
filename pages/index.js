@@ -7,7 +7,6 @@ export default function Home() {
       <Head>
         <title>Lawrecks</title>
         <meta name="description" content="Lawrecks Portfolio"/>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
